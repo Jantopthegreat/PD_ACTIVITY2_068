@@ -43,7 +43,7 @@ int main() {
 		cout << "Masukan lebar : ";
 		cin >> lebar;
 		cout << "Luas persegipanjang = " << Luaspersegipanjang(panjang, lebar);
-		break;
+		break; 
 
 	case 2:
 		cout << "Masukan alas : ";
