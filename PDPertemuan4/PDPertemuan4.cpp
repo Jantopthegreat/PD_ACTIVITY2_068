@@ -21,7 +21,8 @@ int main() {
 	float panjang, lebar, tinggi, jejari, alas;
 	int pilihan;
 
-
+	do
+	{
 
 	cout << "------------------------" << endl;
 	cout << "----------MENU----------" << endl; 
@@ -37,6 +38,7 @@ int main() {
 
 	switch (pilihan)
 	{
+
 	case 1:
 		cout << "Masukan panjang : ";
 		cin >> panjang;
@@ -64,9 +66,9 @@ int main() {
 		break;
 	default:
 		cout << "Pilihan anda salah!";
-		break;
-	}
-} while (pilihan != 4);
+		break; 
+		} 
+	} while (pilihan != 4);
 
 }
 

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PDPertemuan4", "PDPertemuan4\PDPertemuan4.vcxproj", "{84D45376-E326-46AE-ABA6-6A82B18E184B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tugas2", "Tugas2\Tugas2.vcxproj", "{4E8C34CE-2DEF-4985-86F6-BC7FE4D8530E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{84D45376-E326-46AE-ABA6-6A82B18E184B}.Release|x64.Build.0 = Release|x64
 		{84D45376-E326-46AE-ABA6-6A82B18E184B}.Release|x86.ActiveCfg = Release|Win32
 		{84D45376-E326-46AE-ABA6-6A82B18E184B}.Release|x86.Build.0 = Release|Win32
+		{4E8C34CE-2DEF-4985-86F6-BC7FE4D8530E}.Debug|x64.ActiveCfg = Debug|x64
+		{4E8C34CE-2DEF-4985-86F6-BC7FE4D8530E}.Debug|x64.Build.0 = Debug|x64
+		{4E8C34CE-2DEF-4985-86F6-BC7FE4D8530E}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E8C34CE-2DEF-4985-86F6-BC7FE4D8530E}.Debug|x86.Build.0 = Debug|Win32
+		{4E8C34CE-2DEF-4985-86F6-BC7FE4D8530E}.Release|x64.ActiveCfg = Release|x64
+		{4E8C34CE-2DEF-4985-86F6-BC7FE4D8530E}.Release|x64.Build.0 = Release|x64
+		{4E8C34CE-2DEF-4985-86F6-BC7FE4D8530E}.Release|x86.ActiveCfg = Release|Win32
+		{4E8C34CE-2DEF-4985-86F6-BC7FE4D8530E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
