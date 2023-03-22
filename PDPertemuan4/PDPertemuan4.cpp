@@ -7,12 +7,12 @@ float Luaspersegipanjang(float p, float l) {
 
 float Luassegitiga(float a, float t) {
 	return 0.5 * a * t;
-}
+} 
 
-float luaslingkaran(float r) {
+float Luaslingkaran(float r) {
 	return 3.14 * r * r;
 
-} 
+}
 
 
 
